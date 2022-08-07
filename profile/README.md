@@ -10,6 +10,14 @@
 
 🔏 All the user's data is encrypted before being saved to the DB using hashing algorithms and is never shared with third parts.
 
+
+## Privacy
+
+- The only collected information from users is their token, which is encrypted and stored in a secure database.
+- No more data is collected
+- Users can choose to delete their data by using `/delete` command
+
+
 ## Contributing
 
 The bot has associated hosting costs so any help to cover them is welcome. You can do it through a small donation at [BuyMeACoffee](https://www.buymeacoffee.com/dubisdev). Also any feedback, [issue](https://github.com/AddToDoist/AddToDoist/issues) or PR is welcome 💗. Don't forget to ⭐star the repository.
