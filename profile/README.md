@@ -12,6 +12,6 @@
 
 ## Contributing
 
-The bot has associated hosting costs so any help to cover them is welcome. You can do it through a small donation at [BuyMeACoffee](https://www.buymeacoffee.com/dubisdev). Also any feedback, [issue](https://github.com/AddToDoist/AddToDoist/issues) or PR is welcome 💗
+The bot has associated hosting costs so any help to cover them is welcome. You can do it through a small donation at [BuyMeACoffee](https://www.buymeacoffee.com/dubisdev). Also any feedback, [issue](https://github.com/AddToDoist/AddToDoist/issues) or PR is welcome 💗. Don't forget to ⭐star the repository.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dubisdev)
