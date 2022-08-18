@@ -1,6 +1,6 @@
 > **⚠️ Not linked to @Doist or @Todoist**
 
-## @AddToDoist
+## @AddTodoist
 
 🤖 ***A Twitter bot that will help you save tweets and threads to your Todoist account***
 
