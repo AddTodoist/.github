@@ -11,8 +11,8 @@
 🔏 All the user's data is encrypted before being saved to the DB using hashing algorithms and is never shared with third parts.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77246331/186970413-006dcf54-66fc-4e77-aa05-3773707dbacb.png" width="480">
-<img src="https://user-images.githubusercontent.com/77246331/186971152-9a312391-a751-4d72-b306-0e54d32c0bcb.png" width="480">
+<img src="https://user-images.githubusercontent.com/77246331/186970413-006dcf54-66fc-4e77-aa05-3773707dbacb.png" width="400">
+<img src="https://user-images.githubusercontent.com/77246331/186971152-9a312391-a751-4d72-b306-0e54d32c0bcb.png" width="400">
 
 ## Usage Instructions
 
