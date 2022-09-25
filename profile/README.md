@@ -1,6 +1,6 @@
 > **⚠️ Not linked to @Doist or @Todoist**
 
-## @AddTodoist
+## @AddTodoist &nbsp; [![Release status](https://github.com/AddTodoist/AddTodoist/actions/workflows/release.yml/badge.svg)](https://github.com/AddTodoist/AddTodoist/actions/workflows/release.yml) ![Auth Server Status](https://img.shields.io/website?down_color=red&down_message=offline&label=Auth%20Server&up_color=green&up_message=online&url=https%3A%2F%2Faddtodoist-oauth.dubis.dev%2Fstatus) ![DM Server Status](https://img.shields.io/website?down_color=red&down_message=offline&label=DM%20Server&up_color=green&up_message=online&url=https%3A%2F%2Faddtodoist-webhooks.dubis.dev%2Fstatus)
 
 🤖 ***A Twitter bot that will help you save tweets and threads to your Todoist account***
 
@@ -21,6 +21,8 @@
 3. (Optional) Follow the account to get notified about the bot updates (is free and helps a lot 🚀)
 4. Set up your account (Just the first time)
 5. Start saving tweets by sending them to the bot by DM
+
+> If you are receiving an error message, please check the [errors documentation](errors.md)
 
 ### Set Up Your Account
 
@@ -43,7 +45,6 @@ The bot features can be accessed by sending one of these commands (⚠️ Don't 
 - The only collected information from users is their token, which is encrypted and stored in a secure database.
 - No more data is collected
 - Users can choose to delete their data by using `/delete` command
-
 
 ## Contributing
 
